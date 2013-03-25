@@ -21,7 +21,7 @@
 
 .runButton:pressed{
 	-fx-background-repeat: no-repeat;
-	-fx-background-image: url("../cs/images/ui/buttons/runButton_PRESSED.fw.png");
+	-fx-background-image: url("../images/ui/buttons/runButton_PRESSED.fw.png");
 	-fx-background-color: transparent;
 }
 
