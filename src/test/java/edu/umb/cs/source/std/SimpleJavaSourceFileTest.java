@@ -24,6 +24,9 @@ import edu.umb.cs.source.std.AutomaticallyParsedJavaSourceFile;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
+
+import org.junit.Test;
+
 import static org.junit.Assert.assertEquals;
 
 /**

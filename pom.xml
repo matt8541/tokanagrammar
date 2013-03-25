@@ -182,7 +182,7 @@
                         <exclude>*.cmd</exclude>
                         <exclude>*.sh</exclude>
                         <exclude>docs/**</exclude>
-			<exclude>macosx/**</exclude>
+						<exclude>macosx/**</exclude>
                         <exclude>**/*.css</exclude>
                         <exclude>**/*.fxml</exclude>
                         <exclude>target/generated-sources/javacc/GrammarParser/*.java</exclude>
